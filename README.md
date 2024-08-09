@@ -1,8 +1,8 @@
 ##What Is LINQ?
-LINQ (Language Integrated Query) is a feature in C# that allows you to query collections and data sources using a syntax that integrates seamlessly with the language. It provides a way to write queries directly in C# using a query syntax or method syntax.
+- LINQ (Language Integrated Query) is a feature in C# that allows you to query collections and data sources using a syntax that integrates seamlessly with the language. It provides a way to write queries directly in C# using a query syntax or method syntax.
 
 ## Why Use LINQ?
-LINQ offers several advantages for data manipulation and querying:
+- LINQ offers several advantages for data manipulation and querying:
 **Declarative Syntax**: LINQ allows you to specify what you want to achieve in your query, rather than how to achieve it. This makes the code more readable and easier to understand.
 **Conciseness**: Reduces boilerplate code and improves readability.
 **Parallelism**: Facilitates parallel processing to leverage multicore processors for better performance.
