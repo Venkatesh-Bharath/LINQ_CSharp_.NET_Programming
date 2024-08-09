@@ -8,7 +8,7 @@
 **Parallelism**: Facilitates parallel processing to leverage multicore processors for better performance.
 **Consistency**: LINQ provides a consistent querying approach across different types of data sources, such as arrays, lists, databases, XML, and more.
 
-```
+```C#
 using System;
 using System.Collections.Generic;
 using System.Linq;
